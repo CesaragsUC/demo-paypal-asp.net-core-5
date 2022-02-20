@@ -1,5 +1,9 @@
 # demo-paypal-asp.net-core-5
+> Status: Concluido
+
 Olá, esse é um projeto que criei em ASP.NET Core 5 que faz integração com a API  do Paypal.
+
+Acabei me empolgando e adicionando coisinhas a mais no projeto, mas poderia ser ainda mais simples do que já está. 😉
 
 ![home](https://user-images.githubusercontent.com/25139027/154857618-6a380492-f0a8-4f6c-83ab-260084befb8c.png)
 
