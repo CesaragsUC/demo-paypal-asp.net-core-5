@@ -1,0 +1,30 @@
+F:\Projetos ASP.NET\Demo Paypal\src\Business\bin\Debug\net5.0\Business.deps.json
+F:\Projetos ASP.NET\Demo Paypal\src\Business\bin\Debug\net5.0\Business.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Business\bin\Debug\net5.0\ref\Business.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Business\bin\Debug\net5.0\Business.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Business\bin\Debug\net5.0\Domain.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Business\bin\Debug\net5.0\Domain.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Demo Paypal\src\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Demo Paypal\src\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Demo Paypal\src\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+F:\Projetos ASP.NET\Demo Paypal\src\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Demo Paypal\src\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+F:\Projetos ASP.NET\Demo Paypal\src\Business\obj\Debug\net5.0\Business.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Business\obj\Debug\net5.0\ref\Business.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Business\obj\Debug\net5.0\Business.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\bin\Debug\net5.0\Business.deps.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\bin\Debug\net5.0\Business.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\bin\Debug\net5.0\ref\Business.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\bin\Debug\net5.0\Business.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\bin\Debug\net5.0\Domain.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\bin\Debug\net5.0\Domain.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\obj\Debug\net5.0\Business.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\obj\Debug\net5.0\ref\Business.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Business\obj\Debug\net5.0\Business.pdb

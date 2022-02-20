@@ -1,0 +1,151 @@
+﻿@model DemoPaypal.Identity.Models.RegisterUserDTO
+
+@{
+
+    ViewBag.Title = "Register";
+}
+
+<head>
+    <link href="~/css/register/register.css" rel="stylesheet" />
+</head>
+
+
+@*Credits for the form register: https://www.bootdey.com/snippets/view/Register-Form#js*@
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+
+<div class="container">
+
+    <vc:summary />
+
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-5">
+            <div class="card cardbox">
+                <div class="card-header">Register</div>
+                <div class="card-body">
+
+                    <div class="form-group">
+
+
+                        <form id="login-nav" asp-action="Register" method="post" role="form" class="form" accept-charset="UTF-8">
+
+                            <div class="form-group">
+                                <label class="sr-only">Username</label>
+                                <input type="text" asp-for="Name" id="reg_username" class="form-control"
+                                       value="" placeholder="Username" required>
+                            </div>
+
+                            <!-- email group -->
+                            <div class="form-group">
+                                <label class="sr-only">E-mail Address</label>
+                                <input type="email" asp-for="Email" id="reg_useremail" class="form-control"
+                                       placeholder="youremail@email.com">
+                            </div>
+
+                            <!-- password group -->
+                            <div class="form-group">
+
+                                <!-- password label -->
+                                <label class="sr-only">Password</label>
+                                <!-- password input -->
+                                <div class="input-group">
+                                    <input type="password" asp-for="Password" id="reg_userpassword" class="form-control" data-placement="bottom" data-toggle="popover" data-container="body"
+                                           data-html="true" placeholder="Password" required>
+
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary" type="button" id="button-append1" onclick="togglePassword()">
+                                            <i class="fa fa-eye" aria-hidden="true"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                                <!-- password progresbar -->
+                                <div class="progress mt-1" id="reg-password-strength">
+                                    <div id="password-strength" class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                                    </div>
+                                </div>
+                                <!-- password remember & results -->
+                                <div class="help-block text-right">
+                                    <small><a href="#">Forgot Password</a></small>
+                                    <span id="reg-password-quality" class="hide pull-left block-help">
+                                        <small>Password <span id="reg-password-quality-result"></span></small>
+                                    </span>
+                                </div>
+                                <!-- Password Rules -->
+                                <div id="reg_passwordrules" class="hide password-rule mt-2">
+                                    <small>
+
+                                        <ul class="list-unstyled">
+                                            <li class="">
+                                                <span class="eight-character"><i class="fa fa-check-circle" aria-hidden="true"></i></span>
+                                                &nbsp; min 8 character
+                                            </li>
+                                            <li class="">
+                                                <span class="low-upper-case"><i class="fa fa-check-circle" aria-hidden="true"></i></span>
+                                                &nbsp; min 1 uppercase & 1 lowercase character
+                                            </li>
+                                            <li class="">
+                                                <span class="one-number"><i class="fa fa-check-circle" aria-hidden="true"></i></span>
+                                                &nbsp; min 1 number
+                                            </li>
+                                            <li class="">
+                                                <span class="one-special-char"><i class="fa fa-check-circle" aria-hidden="true"></i></span>
+                                                &nbsp; min 1 special char
+                                            </li>
+                                        </ul>
+                                    </small>
+                                </div>
+
+                            </div>
+
+                            <!-- password-confirm group -->
+                            <div class="form-group">
+
+                                <!-- password-confirm label -->
+                                <label class="sr-only">Password Confirm</label>
+                                <!-- password-confirm input -->
+                                <div class="input-group">
+                                    <input type="password" asp-for="ConfirmPassword" id="reg_userpasswordconfirm" class="form-control" data-placement="bottom"
+                                           data-toggle="popover" data-container="body" data-html="true" placeholder="Password Confirm" required>
+
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary" type="button" id="button-append2" onclick="togglePassword()">
+                                            <i class="fa fa-eye" aria-hidden="true"></i>
+                                        </button>
+                                    </div>
+
+                                </div>
+                                <!-- password-confirm error message -->
+                                <div class="help-block text-right">
+                                    <small>
+                                        <span id="error-confirmpassword" class="hide pull-right block-help">
+                                            <i class="fa fa-info-circle text-danger" aria-hidden="true"></i>Don't match password'
+                                        </span>
+                                    </small>
+                                </div>
+
+                            </div>
+
+                            <!-- Submit -->
+                            <div class="form-group">
+                                <button id="reg_submit" name="submit" value="1" class="btn btn-block btn-primary" disabled="disabled">Create user</button>
+                                <div id="sign-up-popover" class="hide"><p>is empty</p></div>
+                            </div>
+
+                        </form>
+                    </div>
+
+                    <div class="login-or"><hr class="hr-or"></div>
+                    <!-- Links -->
+                    <div class="bottom text-center">
+                        Are you user? <a asp-controller="Account" asp-action="Login"><b>Login</b></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script src="~/js/register/register.js"></script>
+}

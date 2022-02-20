@@ -1,0 +1,43 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+<head>
+    <link href="~/css/login-partial/loginpartial.css" rel="stylesheet" />
+
+</head>
+
+<ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User))
+    {
+
+        <li class="nav-item">
+            <img id="image-profile" src="https://i.imgur.com/v49GdGu.png" style=" width: 45px;">
+        </li>
+        <li class="nav-item">
+            <a class="btn btn-light" asp-controller="User" asp-action="Index"  asp-route-profileid="" asp-route-isowner="1"><strong>@User.Identity.Name</strong></a>
+
+        </li>
+
+        <li class="nav-item">
+            <form class="form-inline" asp-controller="Account" asp-action="Logout">
+                <button type="submit" class="nav-link btn btn-link text-dark"><span class="fa fa-logout"></span>Logout</button>
+            </form>
+        </li>
+        <li class="nav-item">
+            <a class="btn btn-light" asp-controller="PrivateMesage" asp-action="Index" ></a>
+        </li>
+    }
+    else
+    {
+
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Account" asp-action="Login">Login</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Account" asp-action="Register">Register</a>
+        </li>
+
+    }
+</ul>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TqE0O45HvjsCjtMzxXzi3BXRefnnMuiuBohRGZ+qCApAiwr2Vus7jqaQ3BSbUBcTeDKAfbOWeBudaelrdGogAQ==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos ASP.NET\\demo-paypal-asp.net-core-5\\src\\Patpal-Checkout\\PayPalCheckoutSdk\\PayPalCheckoutSdk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\braintreehttp-dotnet\\0.3.0\\braintreehttp-dotnet.0.3.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\paypalhttp\\1.0.0\\paypalhttp.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

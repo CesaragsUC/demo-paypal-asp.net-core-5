@@ -1,0 +1,81 @@
+﻿@model DemoPaypal.Model.ProdutoViewModel
+
+
+@{ 
+
+
+}
+
+@*creditos pelo formulario : https://bbbootstrap.com/snippets/request-quote-form-upload-file-16888421*@
+
+<link href="~/css/caddastrar-produto/cadastro-produto.css" rel="stylesheet" />
+
+<form enctype="multipart/form-data" asp-action="Cadastrar">
+
+    <div class="container card-0 justify-content-center ">
+        <div class="card-body px-sm-4 px-0">
+            <div class="row justify-content-center mb-5">
+                <div class="col-md-10 col">
+                    <h3 class="font-weight-bold ml-md-0 mx-auto text-center text-sm-left"> Cadastrar Produto </h3>
+                    <p class="mt-md-4 ml-md-0 ml-2 text-center text-sm-left"> Cadastre aqui o seu produto. Certifique-se de que todos os dados foram preenchidos corretamente.</p>
+                </div>
+            </div>
+            <div class="row justify-content-center round">
+                <div class="col-lg-10 col-md-12 ">
+                    <div class="card shadow-lg card-1">
+                        <div class="card-body inner-card">
+                            <div class="row justify-content-left">
+                                <div class="col-lg-5 col-md-6 col-sm-12">
+                                    <div class="form-group">
+                                        <label>Nome</label>
+                                        <input asp-for="Nome" type="text" class="form-control" id="produtoNome" placeholder="Nome Produto">
+                                        <span asp-validation-for="Nome" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Preço</label>
+                                        <input asp-for="Preco" type="text" class="form-control" id="preco" placeholder="">
+                                        <span asp-validation-for="Preco" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row justify-content-left">
+                                <div class="col-md-12 col-lg-10 col-12">
+                                    <div class="form-group">
+                                        <label>Descrição</label>
+                                        <textarea asp-for="Descricao" class="form-control rounded-0" id="descricaoProduto" rows="5" placeholder="Descrição do produto"></textarea>
+                                        <span asp-validation-for="Descricao" class="text-danger"></span>
+                                    </div>
+
+                                    <div class="row justify-content-center">
+                                        <div class="col-md-12 col-lg-10 col-12">
+                                            <div class="form-group files">
+                                                <label class="my-auto">Enviar Imagen </label>
+                                                <input asp-for="ImagemUpload" id="file" type="file" class="form-control" />
+                                                <span asp-validation-for="ImagemUpload" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="row justify-content-left mb-5">
+                                        <div class="col-lg-4 col-auto ">
+                                            <button type="submit" class="btn btn-primary btn-block"><small class="font-weight-bold">Cadastrar</small></button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts
+{
+    <script src="~/js/cadastrar-produto/cadastro-produto.js"></script>
+
+}
+

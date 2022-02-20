@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PayPalCheckoutSdk
+build_property.ProjectDir = F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\

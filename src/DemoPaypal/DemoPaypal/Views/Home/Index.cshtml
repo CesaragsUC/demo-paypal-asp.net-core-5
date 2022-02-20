@@ -1,0 +1,56 @@
+﻿@model IEnumerable<DemoPaypal.Model.ProdutoViewModel>
+
+
+@{ }
+
+
+<link href="~/css/home/site.css" rel="stylesheet" />
+<link href="~/css/loader-spinner/loader-spinner.css" rel="stylesheet" />
+
+<main>
+
+
+
+    @*creditos spiiner: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_loader*@
+    <div class="container loader-main" id="main-spinner" style="display:none;">
+
+        <h1 class="processando" style="text-align: center;">Redirecionando para o Paypal...</h1>
+        <div class="loader"></div>
+
+    </div>
+
+    <div class="container-fluid bg-trasparent my-4 p-3 main-produtos" style="position: relative;">
+        <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
+
+            @{
+                foreach (var produto in Model)
+                {
+                    <div class="col">
+                        <div class="card h-100 shadow-sm">
+                            <img src="~/images/@produto.Imagem" alt="@produto.Nome" class="card-img-top">
+                            <div class="card-body">
+                                <div class="clearfix mb-3"> <span class="float-start badge rounded-pill">@produto.Nome</span> <span class="float-end price-hp">R$ @produto.Preco</span> </div>
+                                <h5 class="card-title">@produto.Descricao</h5>
+                                <div class="text-center my-4"> <a asp-controller="Pedidos" asp-action="CreatOrder" asp-route-produtoid="@produto.Id" class="btn btn-warning comprar">Comprar</a> </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</main>
+
+@section Scripts
+{
+
+    <script type="text/javascript">
+
+        $('.comprar').click(function () {
+
+            $(".main-produtos").hide();
+            $("#main-spinner").show();
+        });
+
+    </script>
+}

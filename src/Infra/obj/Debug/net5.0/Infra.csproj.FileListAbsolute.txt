@@ -1,0 +1,40 @@
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\bin\Debug\net5.0\Infra.deps.json
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\bin\Debug\net5.0\Infra.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\bin\Debug\net5.0\ref\Infra.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\bin\Debug\net5.0\Infra.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\bin\Debug\net5.0\Business.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\bin\Debug\net5.0\Domain.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\bin\Debug\net5.0\Business.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\bin\Debug\net5.0\Domain.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\obj\Debug\net5.0\Infra.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\obj\Debug\net5.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\obj\Debug\net5.0\Infra.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\obj\Debug\net5.0\Infra.AssemblyInfo.cs
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\obj\Debug\net5.0\Infra.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\obj\Debug\net5.0\Infra.csproj.CopyComplete
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\obj\Debug\net5.0\Infra.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\obj\Debug\net5.0\ref\Infra.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\obj\Debug\net5.0\Infra.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\bin\Debug\net5.0\Infra.runtimeconfig.json
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\bin\Debug\net5.0\Infra.runtimeconfig.dev.json
+F:\Projetos ASP.NET\Demo Paypal\src\Infra\obj\Debug\net5.0\Infra.genruntimeconfig.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\bin\Debug\net5.0\Infra.deps.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\bin\Debug\net5.0\Infra.runtimeconfig.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\bin\Debug\net5.0\Infra.runtimeconfig.dev.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\bin\Debug\net5.0\Infra.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\bin\Debug\net5.0\ref\Infra.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\bin\Debug\net5.0\Infra.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\bin\Debug\net5.0\Business.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\bin\Debug\net5.0\Domain.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\bin\Debug\net5.0\Business.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\bin\Debug\net5.0\Domain.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\obj\Debug\net5.0\Infra.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\obj\Debug\net5.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\obj\Debug\net5.0\Infra.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\obj\Debug\net5.0\Infra.AssemblyInfo.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\obj\Debug\net5.0\Infra.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\obj\Debug\net5.0\Infra.csproj.CopyComplete
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\obj\Debug\net5.0\Infra.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\obj\Debug\net5.0\ref\Infra.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\obj\Debug\net5.0\Infra.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Infra\obj\Debug\net5.0\Infra.genruntimeconfig.cache

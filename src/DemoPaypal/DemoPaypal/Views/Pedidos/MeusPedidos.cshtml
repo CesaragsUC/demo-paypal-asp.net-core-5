@@ -1,0 +1,57 @@
+﻿@model  IEnumerable<DemoPaypal.Model.PedidoViewModel>
+
+
+<style>
+    body {
+        background: #eee
+    }
+</style>
+
+<div class="container mt-5">
+    <h1 style="text-align:center">Meus Pedidos</h1>
+
+    <div class="row">
+
+        <div class="col-md-12 mx-auto">
+            <table class="table bg-white rounded border">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Usuario</th>
+                        <th scope="col">Data Pedido</th>
+                        <th scope="col">Data Pagamento</th>
+                        <th scope="col">Status</th>
+                        <th scope="col">R$</th>
+                        <th scope="col">Produto</th>
+                        <th scope="col">Numero Pedido</th>
+                        <th scope="col">Pago?</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int total = 0;
+                        foreach (var pedido in Model)
+                        {
+                            total++;
+
+                            <tr>
+                                <th scope="row">@total</th>
+                                <td>@pedido.NomeUsuario</td>
+                                <td>@pedido.DataCriacao</td>
+                                <td>@pedido.DataPagamento</td>
+                                <td>@pedido.Status</td>
+                                <td>@pedido.Preco</td>
+                                <td>@pedido.ProdutoNome</td>
+                                <td>@pedido.OrderPaypalId</td>
+                                <td>@(pedido.Pago ? "Sim" : "Não")</td>
+                            </tr>
+                        }
+
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

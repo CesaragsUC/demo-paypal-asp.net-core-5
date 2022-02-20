@@ -1,0 +1,57 @@
+﻿
+@{
+    var orderID = ViewData["ORDER_ID"];
+}
+<link href="~/css/loader-spinner/loader-spinner.css" rel="stylesheet" />
+
+
+@*creditos spiiner: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_loader*@
+<div class="container">
+
+    <h1 style="text-align:center;">Processando...</h1>
+    <div class="loader"></div>
+
+</div>
+
+@section Scripts{
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            debugger
+            var orderId = "@orderID";
+
+            $.ajax
+                ({
+                    type: "GET",
+                    dataType: "json",
+                    contentType: 'application/json; charset=utf-8',
+                    url: '@Url.Action("UpdateOrder", "Pedidos")',
+                    data: { orderid: orderId },
+                    success: function (response) {
+                        debugger
+                        console.log(response)
+                        if (response.msg === 'aprovado')
+                        {
+                            window.location.href = response.url
+                        }
+                        else if (response.msg === 'recusado')
+                        {
+                            window.location.href = response.url
+                        } else {
+
+                            window.location.href = response.url
+                        }
+
+
+                    },
+                    error: function (xhr) {
+
+                        window.location.href = xhr.url
+                    }
+                })
+        });
+
+    </script>
+
+}

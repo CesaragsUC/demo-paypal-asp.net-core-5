@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageVersion>1.0.3</PackageVersion>
+    <Owners>PayPal</Owners>
+    <PackageProjectUrl>https://github.com/paypal/Checkout-NET-SDK</PackageProjectUrl>
+    <PackageReleaseNotes>Replaced BraintreeHttp with PayPalHttp</PackageReleaseNotes>
+    <Title>PayPalCheckoutSdk</Title>
+    <PackOnBuild>true</PackOnBuild>
+    <Authors>PayPal</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BraintreeHttp-Dotnet" Version="0.3.0" />
+    <PackageReference Include="PayPalHttp" Version="1.0.0" />
+  </ItemGroup>
+</Project>

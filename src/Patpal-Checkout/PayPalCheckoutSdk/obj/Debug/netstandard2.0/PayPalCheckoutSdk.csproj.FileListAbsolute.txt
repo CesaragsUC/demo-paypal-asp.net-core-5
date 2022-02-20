@@ -1,0 +1,40 @@
+L:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.deps.json
+L:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.dll
+L:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.pdb
+L:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.AssemblyInfoInputs.cache
+L:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.AssemblyInfo.cs
+L:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.csproj.CoreCompileInputs.cache
+L:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.dll
+L:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.pdb
+L:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.csproj.AssemblyReference.cache
+L:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.deps.json
+F:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.dll
+F:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.pdb
+F:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.csproj.AssemblyReference.cache
+F:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.AssemblyInfoInputs.cache
+F:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.AssemblyInfo.cs
+F:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.csproj.CoreCompileInputs.cache
+F:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.dll
+F:\Projetos Angular\OpressorCheat\oppressor-back\Checkout-NET-SDK-develop\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Patpal-Checkout\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.deps.json
+F:\Projetos ASP.NET\Demo Paypal\src\Patpal-Checkout\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Patpal-Checkout\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Demo Paypal\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Demo Paypal\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.AssemblyInfo.cs
+F:\Projetos ASP.NET\Demo Paypal\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Demo Paypal\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.deps.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.AssemblyInfo.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Patpal-Checkout\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.pdb

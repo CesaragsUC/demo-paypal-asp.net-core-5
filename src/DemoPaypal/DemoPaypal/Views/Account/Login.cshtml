@@ -1,0 +1,40 @@
+﻿@model DemoPaypal.Identity.Models.LoginUserDTO
+
+@{
+
+    ViewBag.Title = "Login";
+}
+<head>
+
+    <style>
+        body {
+            margin-top: 20px;
+        }
+
+        .modal-footer {
+            border-top: 0px;
+        }
+    </style>
+
+</head>
+
+
+<div class="container col-md-6">
+    <div class="modal-header" style="text-align:center">
+        <h1 class="text-center">Login</h1>
+    </div>
+    <div class="modal-body">
+        <form class="form  center-block" asp-action="Login">
+            <div class="form-group">
+                <input type="text" asp-for="Email" class="form-control input-lg" placeholder="Name or Email">
+            </div>
+            <div class="form-group">
+                <input type="password" asp-for="Password" class="form-control input-lg" placeholder="Password">
+            </div>
+            <div class="form-group">
+                <button class="btn btn-primary btn-lg btn-block">Sign In</button>
+                <span class="pull-right"><a asp-action="Register">Register</a></span><span><a asp-action="ForgotPassword" asp-controller="Account">Forgot Password?</a></span>
+            </div>
+        </form>
+    </div>
+</div>

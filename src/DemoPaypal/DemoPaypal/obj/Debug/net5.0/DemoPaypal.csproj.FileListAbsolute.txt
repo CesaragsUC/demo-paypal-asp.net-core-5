@@ -1,0 +1,826 @@
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\appsettings.Development.json
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\appsettings.json
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.exe
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.deps.json
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.runtimeconfig.json
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.runtimeconfig.dev.json
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ref\DemoPaypal.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\mscorlib.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\netstandard.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.AppContext.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Buffers.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Collections.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Configuration.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Console.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Core.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Data.Common.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Data.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Drawing.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Globalization.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Compression.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Linq.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Memory.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Http.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Mail.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Ping.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Requests.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Security.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Numerics.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ObjectModel.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Claims.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Principal.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.Json.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Transactions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ValueTuple.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Web.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Windows.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\WindowsBase.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.Views.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.Views.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.AssemblyInfo.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.MvcApplicationPartsAssemblyInfo.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.MvcApplicationPartsAssemblyInfo.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.RazorAssemblyInfo.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.RazorAssemblyInfo.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\scopedcss\bundle\DemoPaypal.styles.css
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\staticwebassets\DemoPaypal.StaticWebAssets.Manifest.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.TagHelpers.input.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.TagHelpers.output.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.RazorCoreGenerate.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.RazorTargetAssemblyInfo.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.RazorTargetAssemblyInfo.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.Views.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.csproj.CopyComplete
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\ref\DemoPaypal.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.genruntimeconfig.cache
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Error.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\AutoMapper.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Business.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Domain.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Infra.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Infra.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Business.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Domain.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.StaticWebAssets.xml
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\staticwebassets\DemoPaypal.StaticWebAssets.xml
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\BraintreeHttp-Dotnet.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Humanizer.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\PayPalHttp-Dotnet.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\PayPalCheckoutSdk.dll
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\PayPalCheckoutSdk.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Produto\Cadastrar.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Produto\Index.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\Index.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\PagamentoAprovado.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\PagamentoRecusado.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\MeusPedidos.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\CreatOrder.cshtml.g.cs
+F:\Projetos ASP.NET\Demo Paypal\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\PagamentoFalhaServico.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\appsettings.Development.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\appsettings.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.StaticWebAssets.xml
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.exe
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.deps.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.runtimeconfig.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.runtimeconfig.dev.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ref\DemoPaypal.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\mscorlib.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\netstandard.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.AppContext.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Buffers.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Collections.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Configuration.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Console.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Core.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Data.Common.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Data.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Drawing.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Globalization.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Compression.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Linq.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Memory.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Http.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Mail.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Ping.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Requests.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Security.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Numerics.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ObjectModel.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Claims.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Principal.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.Json.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Transactions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.ValueTuple.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Web.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Windows.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\refs\WindowsBase.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.Views.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\DemoPaypal.Views.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\AutoMapper.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\BraintreeHttp-Dotnet.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Humanizer.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\PayPalHttp-Dotnet.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Business.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Domain.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Infra.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\PayPalCheckoutSdk.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Infra.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\PayPalCheckoutSdk.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Business.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\bin\Debug\net5.0\Domain.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.AssemblyInfo.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.MvcApplicationPartsAssemblyInfo.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.MvcApplicationPartsAssemblyInfo.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.RazorAssemblyInfo.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.RazorAssemblyInfo.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\scopedcss\bundle\DemoPaypal.styles.css
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\staticwebassets\DemoPaypal.StaticWebAssets.Manifest.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\staticwebassets\DemoPaypal.StaticWebAssets.xml
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.TagHelpers.input.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.TagHelpers.output.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.RazorCoreGenerate.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Error.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\CreatOrder.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\Index.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\MeusPedidos.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\PagamentoAprovado.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\PagamentoFalhaServico.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Pedidos\PagamentoRecusado.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Produto\Cadastrar.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Produto\Index.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.RazorTargetAssemblyInfo.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.RazorTargetAssemblyInfo.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.Views.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.csproj.CopyComplete
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\ref\DemoPaypal.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\DemoPaypal\DemoPaypal\obj\Debug\net5.0\DemoPaypal.genruntimeconfig.cache

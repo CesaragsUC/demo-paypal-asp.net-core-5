@@ -1,0 +1,30 @@
+﻿@model IEnumerable<DemoPaypal.Model.ProdutoViewModel>
+
+
+@{ }
+
+
+<link href="~/css/home/site.css" rel="stylesheet" />
+
+<main>
+    <div class="container-fluid bg-trasparent my-4 p-3" style="position: relative;">
+        <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
+
+            @{
+                foreach (var produto in Model)
+                {
+                    <div class="col">
+                        <div class="card h-100 shadow-sm">
+                            <img src="~/images/@produto.Imagem" alt="@produto.Nome" class="card-img-top">
+                            <div class="card-body">
+                                <div class="clearfix mb-3"> <span class="float-start badge rounded-pill">@produto.Nome</span> <span class="float-end price-hp">R$ @produto.Preco</span> </div>
+                                <h5 class="card-title">@produto.Descricao</h5>
+                                <div class="text-center my-4"> <a href="#" class="btn btn-info">Editar</a> </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</main>

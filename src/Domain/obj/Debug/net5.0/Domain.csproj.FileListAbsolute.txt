@@ -1,0 +1,24 @@
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\bin\Debug\net5.0\Domain.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\bin\Debug\net5.0\Domain.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\obj\Debug\net5.0\Domain.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\obj\Debug\net5.0\Domain.pdb
+F:\Projetos ASP.NET\Demo Paypal\src\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\bin\Debug\net5.0\Domain.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\bin\Debug\net5.0\Domain.pdb
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\obj\Debug\net5.0\Domain.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\Projetos ASP.NET\demo-paypal-asp.net-core-5\src\Domain\obj\Debug\net5.0\Domain.pdb
